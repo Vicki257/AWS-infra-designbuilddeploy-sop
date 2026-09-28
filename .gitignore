@@ -1,0 +1,5 @@
+# 実プロジェクトの機微情報をコミットしない
+workspace/*.sql
+workspace/inventory-*.txt
+*.pem
+*.key
